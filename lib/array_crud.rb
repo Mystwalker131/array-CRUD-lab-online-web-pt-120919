@@ -34,5 +34,6 @@ array = "wow"
 end
 
 def retrieve_last_element_from_array(array)
-  
+  array = ["wow","Alex", "am","Tyson","Dom", "arrays!"]
+array = "am"
 end
